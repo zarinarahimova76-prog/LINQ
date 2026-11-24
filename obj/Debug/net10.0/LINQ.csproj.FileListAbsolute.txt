@@ -12,3 +12,4 @@
 /Users/rahimova/Desktop/LINQ/obj/Debug/net10.0/LINQ.pdb
 /Users/rahimova/Desktop/LINQ/obj/Debug/net10.0/LINQ.genruntimeconfig.cache
 /Users/rahimova/Desktop/LINQ/obj/Debug/net10.0/ref/LINQ.dll
+/Users/rahimova/Desktop/LINQ/obj/Debug/net10.0/LINQ.sourcelink.json
